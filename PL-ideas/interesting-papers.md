@@ -2,6 +2,8 @@
 
 [List of potential checkers](https://clang-analyzer.llvm.org/potential_checkers.html)
 
+[Provably Correct Peephole Optimizations with Alive](http://www.cs.utah.edu/~regehr/papers/pldi15.pdf)
+
 ### Implementation of VCG with LLVM?
 
 [Algorithmic Logic-Based Verification](https://jorgenavas.github.io/papers/seahorn-siglog15.pdf)
