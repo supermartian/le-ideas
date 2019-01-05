@@ -1,3 +1,7 @@
+### LLVM/CLANG ideas
+
+[List of potential checkers](https://clang-analyzer.llvm.org/potential_checkers.html)
+
 ### Implementation of VCG with LLVM?
 
 [Algorithmic Logic-Based Verification](https://jorgenavas.github.io/papers/seahorn-siglog15.pdf)
